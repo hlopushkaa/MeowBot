@@ -1,5 +1,5 @@
 # MeowBot
-MeowBot is a robot in a video of a cute cat who teaches how to teach children in preschool institutions and increase their interest in learning. The use of Meowbot robots in preschool institutions will improve the efficiency of mastering information content, increase motivation to study and physical activity, thanks to the interactive form of classes.
+MeowBot is a robot shaped like a cute cat that teaches how to teach children in preschools and increase their interest in learning. The use of Meowbot robots in preschool institutions will increase the efficiency of assimilation of information content, increase motivation for learning and physical activity, thanks to the interactive form of classes.
 
 # Full description of the project
 1. `Problem.`
