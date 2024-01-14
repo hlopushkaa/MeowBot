@@ -41,11 +41,21 @@ MeowBot is a robot in a video of a cute cat who teaches how to teach children in
    correct answer. In addition, every 15 - 20 minutes the robot performs a physical warm-up. He dances and shows children moves to help them stretch and stay active throughout the day. The robot can play music 
    and perform other entertainment activities. Meowbot has a large knowledge base and can adapt to the individual needs of each child. It helps children learn and develop in an interactive and exciting way. The 
    robot is a reliable assistant for teachers and parents in the education and upbringing of children.
+
+7. `MeowBot photos.`
+
+<img src="https://github.com/hlopushkaa/photomeowbot/blob/main/afd.jpg" align="center" width="500" height="690">
+<img src="https://github.com/hlopushkaa/photomeowbot/blob/main/adf2.jpg" align="center" width="500" height="690">
+<img src="https://github.com/hlopushkaa/photomeowbot/blob/main/gh.jpg" align="center" width="500" height="860" >
+<img src="https://github.com/hlopushkaa/photomeowbot/blob/main/adf.jpg" align="center" width="500" height="860">
+<img src="https://github.com/hlopushkaa/photomeowbot/blob/main/d.jpg" align="center" width="500" height="850" >
+
+
+8. `Technical part.`
    
-<img src="https://github.com/hlopushkaa/photomeowbot/blob/main/afd.jpg" align="left" width="500" height="690"> 
-<img src="https://github.com/hlopushkaa/photomeowbot/blob/main/adf2.jpg" align="right" width="500" height="690">
+   The main software part is the skill for Yandex Station Alisa, which I wrote in the python programming language. Thanks to this skill, children can practice in a group setting. Alice asks questions in the voice of a cat, and the children answer. For example: what is the hottest time of the year? And if the children answer “summer,” then Alice will praise the children and ask the next question, and if the children answer incorrectly three times, then Alice will say the correct answer and explain why this particular answer is correct. During physical education warm-ups, Alice asks the children the song they want to warm up to. An equally important technical part is the code for interaction between Yandex Alice and the robot. Alice connects to the ESP32 board, which has a built-in wi-fi module, thanks to which the robot and Alice station interact. When the physical education warm-up begins, Alice transmits a signal to the board and the robot begins its movement (shows various physical exercises to children). The robot's movement is written in the Arduino IDE program. MeowBot has a large tablet on which children study individually. There is an educational game on the tablet that I wrote in Android Studio. All elements of the robot are interconnected, so the meowbot works clearly and without errors.
 
-
+   
 
 # Conclusion
 
