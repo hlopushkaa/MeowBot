@@ -23,9 +23,6 @@ Robot-based education for preschool children aims to enhance their skills and ab
 
 5) Encouraging the creative potential of children involves the utilization of various techniques and technologies aimed at nurturing their imagination, fantasy, and creative activities.
 
-## Relevance.
-     
-Robots in kindergartens are becoming increasingly valuable. They help children learn math, literacy, science, music, and social skills, addressing individual needs in the face of teacher shortages and growing student populations.
     
 ## Description of the robot
    
@@ -45,4 +42,13 @@ Children can engage with the robot across various subjects, receiving feedback o
    
    The main software part is the skill for Yandex Station Alisa, which I wrote in the python programming language. Thanks to this skill, children can practice in a group setting. Alice asks questions in the voice of a cat, and the children answer. For example: what is the hottest time of the year? And if the children answer “summer,” then Alice will praise the children and ask the next question, and if the children answer incorrectly three times, then Alice will say the correct answer and explain why this particular answer is correct. During physical education warm-ups, Alice asks the children the song they want to warm up to. An equally important technical part is the code for interaction between Yandex Alice and the robot. Alice connects to the ESP32 board, which has a built-in wi-fi module, thanks to which the robot and Alice station interact. When the physical education warm-up begins, Alice transmits a signal to the board and the robot begins its movement (shows various physical exercises to children). The robot's movement is written in the Arduino IDE program. MeowBot has a large tablet on which children study individually. There is an educational game on the tablet that I wrote in Android Studio. All elements of the robot are interconnected, so the meowbot works clearly and without errors.
 
+## The main technical parts of the robot
+
+| Robot part | Purpose |
+| --- | --- |
+| Yandex Station Alisa Light | Interaction with children: communication, group activities, development of communication skills |
+| ESP32 DevKit ESP-WROOM-32 V1 | Board with wi-fi module for interaction of Arduino with Yandex Station Alisa light |
+| Arduino MG995 servo motor | Two servomotors for the movement of the robot, two servomotors for the movement of the meowbot’s paws (for physical education warm-ups) |
+| Samsung Galaxy Tab S3 | Individual lessons in the form of educational games on a tablet |
+| WS2812B IC RGB LED 16x16 | LED matrix for visualizing meowbot eyes |
 
