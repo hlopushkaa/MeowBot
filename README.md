@@ -37,6 +37,8 @@ Children can engage with the robot across various subjects, receiving feedback o
 | --- | --- |
 
 
+| ![Meowbot Image 3](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-11_11-06-10.jpg) | ![Meowbot Image 4](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-29.jpg) |
+| --- | --- |
 
 # What's behind?
    
