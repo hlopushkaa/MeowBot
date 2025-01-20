@@ -40,6 +40,9 @@ Children can engage with the robot across various subjects, receiving feedback o
 | ![Meowbot Image 3](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-11_11-06-10.jpg) | ![Meowbot Image 4](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-29.jpg) |
 | --- | --- |
 
+| ![Meowbot Image 3](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-32.jpg) | ![Meowbot Image 4](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-31 (2).jpg) |
+| --- | --- |
+
 # What's behind?
    
    The main software part is the skill for Yandex Station Alisa, which I wrote in the python programming language. Thanks to this skill, children can practice in a group setting. Alice asks questions in the voice of a cat, and the children answer. For example: what is the hottest time of the year? And if the children answer “summer,” then Alice will praise the children and ask the next question, and if the children answer incorrectly three times, then Alice will say the correct answer and explain why this particular answer is correct. During physical education warm-ups, Alice asks the children the song they want to warm up to. An equally important technical part is the code for interaction between Yandex Alice and the robot. Alice connects to the ESP32 board, which has a built-in wi-fi module, thanks to which the robot and Alice station interact. When the physical education warm-up begins, Alice transmits a signal to the board and the robot begins its movement (shows various physical exercises to children). The robot's movement is written in the Arduino IDE program. MeowBot has a large tablet on which children study individually. There is an educational game on the tablet that I wrote in Android Studio. All elements of the robot are interconnected, so the meowbot works clearly and without errors.
