@@ -37,10 +37,15 @@ Children can engage with the robot across various subjects, receiving feedback o
 | --- | --- |
 
 
-| ![Meowbot Image 3](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-11_11-06-10.jpg) | ![Meowbot Image 4](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-29.jpg) |
+| ![Meowbot Image 5](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-11_11-06-10.jpg) | ![Meowbot Image 6](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-29.jpg) |
 | --- | --- |
 
-| ![Meowbot Image 3](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-32.jpg) | ![Meowbot Image 4](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-31 (2).jpg) |
+| ![Meowbot Image 7](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-32.jpg) | ![Meowbot Image 8](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-313.jpg) |
+| --- | --- |
+
+
+
+| ![Meowbot Image 9](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-31.jpg) | ![Meowbot Image 10](https://github.com/hlopushkaa/photomeowbot/blob/main/photo_2024-04-26_23-00-30.jpg) |
 | --- | --- |
 
 # What's behind?
